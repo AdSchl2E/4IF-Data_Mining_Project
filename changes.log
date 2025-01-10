@@ -1,1 +1,3 @@
-- Replaced ’ with ' 
+- Replaced ’ with ' | 420240 entries
+- Removed duplicates using pandas.drop_duplicates | 187598 entries
+- Removed spaced in the column names | 187598 entries
